@@ -63,7 +63,7 @@ public class SmartTv {
         }
     }
 
-    public void mostrarStatus() {
+    private void mostrarStatus() {
         System.out.println("Samsung\nCanal: " + canal + "\nVolume: " + volume);
     }
 
